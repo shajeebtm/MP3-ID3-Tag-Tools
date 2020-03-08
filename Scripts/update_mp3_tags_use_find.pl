@@ -1,6 +1,6 @@
 #!/usr/bin/perl 
 
-# This script reads following informatio  from the file songs_data.csv and populate same on all mp3 files in the given directory & subdirectories
+# This script reads following information  from the file songs_data.csv and populate same on all mp3 files in the given directory & subdirectories
 # FileName:SongTitle:AlbumName:Composer:Lyricst:Year:Artist:Genre:Comment
 
 $master_data='songs_data.csv';
