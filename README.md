@@ -28,9 +28,9 @@ SongTitle:AlbumName:Composer:Lyricst:Year:Artist:Genre:Comment
 
 __A sample output will look like below__
 
-_MAIE.mp3:manasse santhamakoo:Aalilakkuruvikal:Mohan Sitara:Bichu Thirumala:1988:Venugopal G:(24):Malayalam
-MAKF.mp3:manjin chirakulla vellariprave:Swagatham:Rajamani:Bichu Thirumala:1989:Venugopal G,Sreekumar MG:(24):Malayalam
-MELA.mp3:poothalam(m):Kalikalam:Johnson:Kaithapram:1990:Venugopal G:(24):Malayalam
+_MAIE.mp3:manasse santhamakoo:Aalilakkuruvikal:Mohan Sitara:Bichu Thirumala:1988:Venugopal G:(24):Malayalam_
+_MAKF.mp3:manjin chirakulla vellariprave:Swagatham:Rajamani:Bichu Thirumala:1989:Venugopal G,Sreekumar MG:(24):Malayalam_
+_MELA.mp3:poothalam(m):Kalikalam:Johnson:Kaithapram:1990:Venugopal G:(24):Malayalam_
 MEPZ.mp3:Unarumee Gaanam:Moonam Pakkam:Ilayaraja:Sreekumaran Thampi:1988:Venugopal G:(24):Malayalam
 MEUU.mp3:etho vaarmukilin:Pookkalam Varavayi:Ouseppachan:Bichu Thirumala,Kaithapr...:1991:Venugopal G:(24):Malayalam
 OBMV.mp3:mookilla rajyathe:Sambhavami Yuge Yuge:Baburaj MS:Sreekumaran Thampi:1972:Yesudas,Vasantha B:(24):Malayalam
