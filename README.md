@@ -10,7 +10,7 @@ if you have requirement to update ID3 tags of multiple MP3 files.
 * Image::Magick
 
 ----
-## Print ID3V2 tags
+## [Print ID3V2 tags](../Scripts/print_mp3_id3v2_tags_use_find.pl)
 This script prints following ID3V2 tags of every MP3 file found in the given directory & its subdirectories.
 
 * Song Title
