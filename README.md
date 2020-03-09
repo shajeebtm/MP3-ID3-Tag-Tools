@@ -107,7 +107,7 @@ __Sample artwork 1 while playing on an iPhone__
 ## [Update ID3V2 Artwork with background image](../master/Scripts/update_artwork_with_backgrounfimage_use_find.pl)
 Most of the MP3 player devices and apps dont show all ID3 tag  informations while music being played. An artwork with ID3 tag details annotated makes it easy to view all details of a song while it is being played.  
 
-This script updates artwork (image) of every  mp3 file found in the given directory & it's subdirectories. It will remove exisiting artowrk image (if any) , populate background with "background.png" file and annotate image with  following information. 
+This script updates artwork (image) of every  mp3 file found in the given directory & it's subdirectories. It will remove exisiting artowrk image (if any) , populate background with "background.png" image file and annotate image with  following information. 
 
 
 * Song Title
