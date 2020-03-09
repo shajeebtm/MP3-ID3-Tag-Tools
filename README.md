@@ -1,6 +1,6 @@
 # MP3 ID3 Tag Tools
 Collection of Perl tools for reading and updating MP3 ID3v2 tags in a programmatic way. These scripts are heavily useful
-if you have requirement to update ID3 tags of multiple MP3 files.
+if you have requirement to update ID3 tags of multiple MP3 files. 
 
 ## Pre-requisites : Following perl modules are required
 
@@ -70,3 +70,19 @@ __Usage__
 * $ ./update_mp3_tags_use_find.pl "directory to scan for MP3 files"
 
 ----
+
+## [Update ID3V2 Artwork ](../master/Scripts/update_artwork_use_find.pl)
+Most of the MP3 player devices and apps dont show all ID3 tag  informations while music being played. An artwork with ID3 tag details annotated makes it easy to view all details of a song while it is being played.  
+
+This script updates artwork (image) of every  mp3 file found in the given directory & it's subdirectories. It will remove exisiting artowrk image (if any) and update with a plain image which contains following information. 
+* Song Title
+* Album Name
+* Composer
+* Lyricst
+* Year
+* Artist
+* Genre
+* Comment (for grouping)
+* Filename (without path)
+
+In order to update the artwork the script reads every information from the exisiting ID3v2 tags hence no input file is needed for updating Artwork.  Please note that a MP3 with artwork will be around 50 kilo bytes larger than without artwork.
