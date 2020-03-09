@@ -4,7 +4,7 @@
 
 #
 # This script updates Artwork of every  mp3 file found in the given directory & subdirectories.
-# It will remove exisiting Artowrk , populate background with background.png dile and annotate details
+# It will remove exisiting Artowrk , populate background with background.png file and annotate details
 # with following information which is read from the ID3v2 tags of the file 
 # Song Title , Movie name , Singer , Music , Lyricist , Year , Genre , Comment , Filename (generated)
 #
