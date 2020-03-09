@@ -86,3 +86,12 @@ This script updates artwork (image) of every  mp3 file found in the given direct
 * Filename (without path)
 
 In order to update the artwork the script reads every information from the exisiting ID3v2 tags hence no input file is needed for updating Artwork.  Please note that a MP3 with artwork will be around 50 kilo bytes larger than without artwork.
+
+__Sample artwork 1__
+
+<img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_plain_1.png" alt="Sample artwork 1 " align="centre" width="250" height="300" border="10"/>
+
+
+__Sample artowrk 1 while playing on an iPhone__
+
+<img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_plain_ondevice_1.PNG" alt="Sample artwork 1 on device" align="centre" width="300" height="500" border="10"/>
