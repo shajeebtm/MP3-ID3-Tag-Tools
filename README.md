@@ -87,6 +87,9 @@ This script updates artwork (image) of every  mp3 file found in the given direct
 
 In order to update the artwork the script reads every information from the exisiting ID3v2 tags hence no input file is needed for updating Artwork.  Please note that a MP3 with artwork will be around 50 kilo bytes larger than without artwork.
 
+__Usage__
+* $ ./update_artwork_use_find.pl "directory to scan for MP3 files"
+
 __Sample artwork 1__
 
 <dl align="center">
@@ -97,4 +100,39 @@ __Sample artwork 1 while playing on an iPhone__
 
 <dl align="center">
 <img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_plain_ondevice_1.PNG" alt="Sample artwork 1 on device" align="centre" width="300" height="550" border="10"/>
+</dl>
+
+---
+
+## [Update ID3V2 Artwork with background image](../master/Scripts/update_artwork_with_backgrounfimage_use_find.pl)
+Most of the MP3 player devices and apps dont show all ID3 tag  informations while music being played. An artwork with ID3 tag details annotated makes it easy to view all details of a song while it is being played.  
+
+This script updates artwork (image) of every  mp3 file found in the given directory & it's subdirectories. It will remove exisiting artowrk image (if any) , populate background with "background.png" file and annotate image with  following information. 
+
+
+* Song Title
+* Album Name
+* Composer
+* Lyricst
+* Year
+* Artist
+* Genre
+* Comment (for grouping)
+* Filename (without path)
+
+In order to update the artwork the script reads every information from the exisiting ID3v2 tags hence no input file is needed for updating Artwork.  Please note that a MP3 with artwork will be around 50 kilo bytes larger than without artwork.
+
+__Usage__
+* $ ./update_artwork_with_backgrounfimage_use_find.pl "directory to scan for MP3 files"
+
+__Sample artwork 2__
+
+<dl align="center">
+<img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_with_bg_3.png" alt="Sample artwork 2 " align="centre" width="250" height="250" border="10"/>
+</dl>
+
+__Sample artwork 2 while playing on an iPhone__
+
+<dl align="center">
+<img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_withbg_ondevice_2.PNG" alt="Sample artwork 2 on device" align="centre" width="300" height="550" border="10"/>
 </dl>
