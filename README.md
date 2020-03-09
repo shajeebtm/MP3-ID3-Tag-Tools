@@ -88,7 +88,7 @@ In order to update the artwork the script reads every information from the exisi
 __Usage__
 * $ ./update_artwork_use_find.pl "directory to scan for MP3 files"
 
-__Sample artwork __
+__Sample artwork__
 
 <dl align="center">
 <img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_plain_1.png" alt="Sample artwork 1 " align="centre" width="250" height="250" border="10"/>
@@ -123,13 +123,13 @@ In order to update the artwork the script reads every information from the exisi
 __Usage__
 * $ ./update_artwork_with_backgrounfimage_use_find.pl "directory to scan for MP3 files"
 
-__Sample artwork 2__
+__Sample artwork__
 
 <dl align="center">
 <img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_with_bg_3.png" alt="Sample artwork 2 " align="centre" width="250" height="250" border="10"/>
 </dl>
 
-__Sample artwork 2 while playing on an iPhone__
+__Sample artwork : while playing on an iPhone__
 
 <dl align="center">
 <img src="https://github.com/shajeebtm/MP3-ID3-Tag-Tools/blob/master/Images/Artwork_withbg_ondevice_2.PNG" alt="Sample artwork 2 on device" align="centre" width="300" height="550" border="10"/>
